@@ -13,7 +13,7 @@ class User:
 users = []
 users.append(User(id=1, username='Gabi', password='haslo'))
 users.append(User(id=2, username='Krzysiek', password='password'))
-users.append(User(id=3, username='Carlos', password='somethingsimple'))
+users.append(User(id=3, username='Magda', password='haslo1'))
 
 
 app = Flask(__name__)
